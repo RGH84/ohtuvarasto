@@ -1,7 +1,7 @@
 from varasto import Varasto
 
 def tervehdi():
-    print("Tehdään yli pitkä rivi, josta pitäisi tulla herja, toivottavasti, kohta nähdään toimiiko tämä ja uusiksihan se meni..")
+    print("Korjataan")
     print("Tervetuloa varastoon!\nLuonnin jälkeen:")
 
 def alusta_varastot():
